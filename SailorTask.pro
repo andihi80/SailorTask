@@ -25,7 +25,8 @@ DISTFILES += qml/SailorTask.qml \
     rpm/SailorTask.spec \
     rpm/SailorTask.yaml \
     translations/*.ts \
-    SailorTask.desktop
+    SailorTask.desktop \
+    qml/pages/ListCurrentTasks.qml
 
 SAILFISHAPP_ICONS = 86x86 108x108 128x128
 
