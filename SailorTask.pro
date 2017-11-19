@@ -20,6 +20,7 @@ DISTFILES += qml/SailorTask.qml \
     qml/cover/CoverPage.qml \
     qml/pages/FirstPage.qml \
     qml/pages/SecondPage.qml \
+    qml/pages/AddNewTask.qml \
     rpm/SailorTask.changes.in \
     rpm/SailorTask.changes.run.in \
     rpm/SailorTask.spec \
